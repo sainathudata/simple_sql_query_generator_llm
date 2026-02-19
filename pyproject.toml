@@ -1,0 +1,9 @@
+[project]
+name = "simple_sql_query_generator"
+version = "0.1.0"
+requires-python = ">=3.11" 
+dependencies = [
+    "dotenv>=0.9.9",
+    "mssql-python>=1.3.0",
+    "openai>=2.21.0",
+]
