@@ -10,7 +10,7 @@
 
 A production-ready SQL query generator that converts natural language questions into accurate, safe SQL queries. Built with schema awareness, safety validation, and support for multiple LLM providers.
 
-**Medium Article:** [Building a Simple SQL Query Generator Using LLMs](your-medium-link)
+**Medium Article:** [Building a Simple SQL Query Generator Using LLMs](https://pub.towardsai.net/building-a-simple-sql-query-generator-using-llms-2a18c80151c6)
 
 ![Chat to SQL Workflow](image2.png)
 
