@@ -6,4 +6,7 @@ dependencies = [
     "dotenv>=0.9.9",
     "mssql-python>=1.3.0",
     "openai>=2.21.0",
+    "pyodbc>=5.3.0",
+    "python-toon>=0.1.3",
+    "sqlparse>=0.5.5",
 ]
